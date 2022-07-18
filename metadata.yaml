@@ -1,11 +1,16 @@
 _repo: Tea-room-business_68495
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68495-h/images/cover.jpg
 creator:
   author:
     agent_name: Cary, Ida Lee
     gutenberg_agent_id: '54762'
     url: http://www.gutenberg.org/2009/agents/54762
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68495#Tea-room-business
 gutenberg_issued: '2022-07-11'
 identifiers:
   gutenberg: '68495'
